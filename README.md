@@ -1,5 +1,7 @@
 # Weather API
 
+Project URL: [https://github.com/MohamedNAGYYS/weather-api](https://github.com/MohamedNAGYYS/weather-api)
+
 A Django REST Framework project that lets users get weather information for a city.  
 Logged-in users can fetch the weather, which is saved to the database.
 
@@ -11,4 +13,4 @@ Logged-in users can fetch the weather, which is saved to the database.
 
 ```bash
 pip install -r requirements.txt
-https://github.com/MohamedNAGYYS/weather-api/tree/main
+
