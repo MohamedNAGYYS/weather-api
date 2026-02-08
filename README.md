@@ -11,3 +11,4 @@ Logged-in users can fetch the weather, which is saved to the database.
 
 ```bash
 pip install -r requirements.txt
+https://roadmap.sh/projects/weather-api-wrapper-service
